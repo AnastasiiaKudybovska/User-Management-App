@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Dancing+Script&family=IBM+Plex+Sans+Condensed:wght@600&family=Kalam:wght@300&family=Lora&display=swap');
+.headerCont{
+    padding: 0 16px ;
+    background-color: #014e45;
+    color: #fff;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;   
+
+}
+.headerName a{
+   list-style: none;
+   text-decoration: none;
+   color: #fff;
+
+}
+nav {
+  padding: 0 10px;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  margin: 0 10px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
